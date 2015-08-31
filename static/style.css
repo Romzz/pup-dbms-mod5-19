@@ -1,0 +1,18 @@
+body {
+}
+
+.main {
+    width: 400px;
+    margin: auto;
+}
+
+form input[type=text] {
+    width: 100%;
+    margin-top: 5px;
+    line-height: 20px;
+}
+form input[type=submit] {
+    margin-top: 5px;
+    position: relative;
+    float: right;
+}
